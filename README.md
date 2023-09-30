@@ -1,4 +1,4 @@
-# WDebloater
+# *DEPRECIATED* | WDebloater | *DEPRECIATED*
 
 Quick. Simple. Debloat <3
 
